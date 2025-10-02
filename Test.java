@@ -1,7 +1,7 @@
 public class Test{
     public static void main(String[] args) {
-        System.out.println("Hi, this is the first line of code");
-        System.out.println("User 2 add new line");
-        System.out.println("Selvy Cantik");
+        System.out.println("Hi, this is the first line of code modified by User 3");
+        System.out.println("User 3 added a new row");
+        System.out.println("Lucia Cantik");
     }
 }
